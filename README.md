@@ -1,33 +1,31 @@
-<h1 align="center">Hi 👋, I'm Jane Alam Topu</h1>
-<h3 align="center">Web developer and WordPress developer</h3>
+### Hi there 👋, Jane Alam Topu
+#### Web Developer & WordPress Designer
+![Web Developer & WordPress Designer](https://www.canva.com/design/DAFc9SjSCmQ/wGCC4KxNQQHZijvFuFaWug/view?utm_content=DAFc9SjSCmQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=janealamtopu&label=Profile%20views&color=0e75b6&style=flat" alt="janealamtopu" /> </p>
+Hey, I'm a web developer. We love to learn new technology and client satisfaction is my first priority .Also know WordPress CRM website design and development
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=janealamtopu" alt="janealamtopu" /></a> </p>
+Skills: HTML / CSS/ WordPress/ Bootstrap
 
-- 🔭 I’m currently working on [onlinetopu](https://onlinetopu.com/)
+- 🔭 I’m currently working on onlinetopu 
+- 🌱 I’m currently learning https://onlinetopu.com/ 
+- 📫 How to reach me: janealamtopu647@gmail.com 
+- ⚡ Fun fact: I think I am funny 
 
-- 🌱 I’m currently learning **JavaScript**
 
-- 📝 I regularly write articles on [https://onlinetopu.com/](https://onlinetopu.com/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/janealamt)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/jane-alam-topu-3b4b49118//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://web.facebook.com/janealam.topu/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/janealamtopu647)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://onlinetopu.com/)  
 
-- 💬 Ask me about **BootStrap 5**
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-- 📫 How to reach me **janealamtopu647@gmail.com**
+[![trophy](https://github-profile-trophy.vercel.app/?username=janealamt)](https://github.com/ryo-ma/github-profile-trophy)
 
-- ⚡ Fun fact **I think I am funny**
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janealamt)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/https://twitter.com/janealamtopu647" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/janealamtopu647" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jane-alam-topu-3b4b49118/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jane-alam-topu-3b4b49118/" height="30" width="40" /></a>
-<a href="https://fb.com/https://web.facebook.com/janealam.topu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/janealam.topu/" height="30" width="40" /></a>
-<a href="https://www.behance.net/https://www.behance.net/janealamtopu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/janealamtopu" height="30" width="40" /></a>
-</p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=janealamt&show_icons=true&count_private=true)  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=janealamt)  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=janealamtopu&show_icons=true&locale=en&layout=compact" alt="janealamtopu" /></p>
+![GitHub metrics](https://metrics.lecoq.io/janealamt)  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=janealamtopu&show_icons=true&locale=en" alt="janealamtopu" /></p>
+![GitHub streak stats](https://streak-stats.demolab.com/?user=janealamt)  
+
+![Profile views](https://gpvc.arturio.dev/janealamt)  
