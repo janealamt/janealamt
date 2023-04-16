@@ -1,6 +1,5 @@
 ### Hi there 👋, Jane Alam Topu
 #### Web Developer & WordPress Designer
-![Web Developer & WordPress Designer]
 
 Hey, I'm a web developer. We love to learn new technology and client satisfaction is my first priority .Also know WordPress CRM website design and development
 
