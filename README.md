@@ -5,8 +5,8 @@ Hey, I'm a web developer. We love to learn new technology and client satisfactio
 
 Skills: HTML / CSS/  Bootstrap/ WordPress
 
-- 🔭 I’m currently working on beautysexepo 
-- 🌱 I’m currently learning https://beautysexepo.com/ 
+- 🔭 I’m currently working on beautyexepo 
+- 🌱 I’m currently learning https://beautyexepo.com/ 
 - 📫 How to reach me: janealamtopu647@gmail.com 
 - ⚡ Fun fact: I think I am funny 
 
